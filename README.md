@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AbotrabAhmad
+- 👀 I’m interested in Software and Data Engineer 
+- 🌱 I’m currently learning Software Engineering 
+- 💞️ I’m looking to collaborate on the development of any project related to data modeling and engineering and learning modern technologies and algorithms.
+- 📫 How to reach me by Linkedin https://www.linkedin.com/in/ahmadabotrab/
